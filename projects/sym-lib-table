@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "bi-directional_mosfet_level_shifter-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/bi-directional_mosfet_level_shifter-eagle-import.kicad_sym")(options "")(descr ""))
+)
